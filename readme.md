@@ -1,7 +1,5 @@
 # Hello world
 
-<code>My name is Phat</code>
-
-You find me?
-<code>https://tourdeforce.cf</code>
 <code>https://tourdeforce.netlify.app</code>
+---
+![not-found](https://user-images.githubusercontent.com/25240625/216242386-0314b848-faa0-4707-b30c-577387696d9f.gif)
