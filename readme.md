@@ -1,4 +1,6 @@
-# Hello world
+# Bonjour
+
+<a href="https://app.daily.dev/nguyenphatit"><img src="https://api.daily.dev/devcards/c2b2d3add5eb4d0aadd743c895e4ad6f.png?r=qs3" width="400" alt="Phat Nguyen's Dev Card"/></a>
 
 <code>https://nguyenphatit.github.io/</code>
 ---
